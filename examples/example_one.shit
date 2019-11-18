@@ -1,0 +1,25 @@
+<comment>,Don't use a semi-colon in text;
+<comment>,Only use a space in text and comments;
+<comment>,Don't use a comma in text;
+<comment>,a <number> is an integer;
+<comment>,Floating points will be added in the future;
+<comment>,You can ONLY perform math on numbers;
+
+<number>,numberName,2;
+<text>,textName,"This is a string Variable";
+
+<print>,textName;
+<print>,"Welcome to shitscript.";
+<print>,"This is a shitty programming language created by Noah Shanaberger";
+<print>,"It really only has basic math functionality so far.";
+<print>,"Even then, it's via a strange way of doing it.";
+
+<add>,numberName,3;
+<print>,numberName;
+<add>,numberName,numberName;
+<print>,numberName;
+
+<subtract>,numberName,400;
+<print>,numberName;
+<subtract>,numberName,numberName;
+<print>,numberName;
